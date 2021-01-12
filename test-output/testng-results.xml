@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30719" started-at="2021-01-11T19:09:58Z" finished-at="2021-01-11T19:10:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30719" started-at="2021-01-11T19:09:58Z" finished-at="2021-01-11T19:10:29Z">
+      <class name="com.yahoo.test.TESTYahooSignup">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.yahoo.test.TESTYahooSignup@4b952a2d]" name="openBrowser" is-config="true" duration-ms="12156" started-at="2021-01-11T19:09:58Z" finished-at="2021-01-11T19:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="signup()[pri:0, instance:com.yahoo.test.TESTYahooSignup@4b952a2d]" name="signup" duration-ms="18519" started-at="2021-01-11T19:10:10Z" finished-at="2021-01-11T19:10:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.yahoo.test.TESTYahooSignup@4b952a2d]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2021-01-11T19:10:29Z" finished-at="2021-01-11T19:10:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.yahoo.test.TESTYahooSignup -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
